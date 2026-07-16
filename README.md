@@ -62,13 +62,6 @@
 
 # 🚀 Featured Projects
 
-### 💰 Personal Expense Tracker
-> Flask • MySQL • Java • Pandas • Matplotlib
-
----
-
-### 🏦 Banking Management System
-> Java • OOP • JDBC
 
 ---
 
@@ -100,7 +93,6 @@
 🏆 Data Visualization: Storytelling — LinkedIn Learning
 
 🏆 Career Essentials in System Administration — Microsoft × LinkedIn Learning
-
 ---
 
 # 📈 Currently Learning
