@@ -41,11 +41,13 @@
 
 <div align="center">
 
+<div align="center">
+
 ## 👨‍💻 Coding Journey
 
-<img src="https://avatars.githubusercontent.com/u/9919?s=300&v=4" width="220" style="border-radius:50%;" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="150"/>
 
-### 💚 Code • Learn • Build • Repeat 🚀
+### 💚 Dream Big • Code Daily • Never Stop Learning 🚀
 
 </div>
 # 💻 Tech Stack
