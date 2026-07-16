@@ -47,7 +47,7 @@
 
 <div align="center">
 
-## 👨‍💻 Coding Journey
+## 🐱 Code Companion ⭐
 
 <img src="cats.png" alt="Coding Cat" width="300"/>
 
@@ -80,11 +80,6 @@
 
 # 🚀 Featured Projects
 
-### 💰 Personal Expense Tracker
-> Flask • MySQL • Java • Pandas • Matplotlib
-
-### 🏦 Banking Management System
-> Java • OOP • JDBC
 
 ### 📊 Financial Crime Intelligence Dashboard
 > Python • SQL • Power BI • Excel
@@ -107,9 +102,6 @@
 
 🏆 Introduction to SQL — Simplilearn
 
-🏆 Data Visualization: Storytelling — LinkedIn Learning
-
-🏆 Career Essentials in System Administration — Microsoft × LinkedIn Learning
 
 ---
 
