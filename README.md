@@ -41,14 +41,13 @@
 
 <div align="center">
 
-<div align="center">
+## 👨‍💻 Coding Journey
 
-<img src="./images/anime-programmer.png" width="350"/>
+<img src="https://avatars.githubusercontent.com/u/9919?s=300&v=4" width="220" style="border-radius:50%;" />
 
-### 💚 *Code • Learn • Build • Repeat*
+### 💚 Code • Learn • Build • Repeat 🚀
 
 </div>
-
 # 💻 Tech Stack
 
 <p align="center">
