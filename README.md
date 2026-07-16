@@ -43,9 +43,11 @@
 
 <div align="center">
 
+<div align="center">
+
 ## 👨‍💻 Coding Journey
 
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="150"/>
+<img src="./cat.png" alt="Coding Cat" width="320"/>
 
 ### 💚 Dream Big • Code Daily • Never Stop Learning 🚀
 
