@@ -45,9 +45,11 @@
 
 <div align="center">
 
+<div align="center">
+
 ## 👨‍💻 Coding Journey
 
-<img src="./cat.png" alt="Coding Cat" width="320"/>
+<img src="cat.png" alt="Coding Cat" width="300"/>
 
 ### 💚 Dream Big • Code Daily • Never Stop Learning 🚀
 
