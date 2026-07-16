@@ -42,6 +42,11 @@
 <div align="center">
 
 ## 👨‍💻 Coding Journey
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Keep+Learning+%F0%9F%9A%80;Build+Projects+Every+Day;Become+a+Data+Scientist"/>
+
+</div>
 
 <img src="images/anime-boy.png" width="320"/>
 
