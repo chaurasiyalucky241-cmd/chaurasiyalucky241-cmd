@@ -49,7 +49,7 @@
 
 ## 👨‍💻 Coding Journey
 
-<img src="cat.png" alt="Coding Cat" width="300"/>
+<img src="cats.png" alt="Coding Cat" width="300"/>
 
 ### 💚 Dream Big • Code Daily • Never Stop Learning 🚀
 
