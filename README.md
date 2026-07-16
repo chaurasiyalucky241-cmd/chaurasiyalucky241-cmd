@@ -1,20 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,25:2ECC71,50:16A085,75:3498DB,100:6C5CE7&height=230&section=header&text=Lucky%20Chaurasiya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20|%20Data%20Analytics%20|%20AI%20Enthusiast&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ECC71,25:58D68D,50:A9DFBF,75:D5F5E3,100:FFFFFF&height=230&section=header&text=Lucky%20Chaurasiya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20|%20Data%20Analytics%20|%20AI%20Enthusiast&descAlignY=58"/>
 
 # 👋 Hi, I'm Lucky Chaurasiya
 
 ### 🎓 BCA (AI & Data Analytics) Student • 🐍 Python Developer • 📊 Data Analytics Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1200&color=2ECC71&center=true&vCenter=true&width=800&lines=Building+Real-World+Projects;Learning+Data+Science+Every+Day;Python+%7C+SQL+%7C+Java+%7C+Power+BI;Always+Learning+%F0%9F%9A%80" />
+<h3 align="center">
+💻 Building Real-World Projects • 📚 Learning Every Day • 🚀 Open to Internship Opportunities
+</h3>
 
 <p>
 
-<img src="https://img.shields.io/badge/Location-Madhya_Pradesh,_India-success?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/📍_Madhya_Pradesh,_India-2ECC71?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/LNCT-Bhopal-blue?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/🎓_LNCT_Bhopal-27AE60?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Open_to-Internships-2ECC71?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💼_Open_to_Internships-16A085?style=for-the-badge"/>
 
 </p>
 
@@ -50,7 +52,7 @@
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Matplotlib-2ECC71?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
@@ -62,18 +64,17 @@
 
 # 🚀 Featured Projects
 
+### 💰 Personal Expense Tracker
+> Flask • MySQL • Java • Pandas • Matplotlib
 
----
+### 🏦 Banking Management System
+> Java • OOP • JDBC
 
 ### 📊 Financial Crime Intelligence Dashboard
 > Python • SQL • Power BI • Excel
 
----
-
 ### 🐍 Python Programs Repository
-> Beginner → Advanced Python Programs with Regular Updates
-
----
+> Beginner → Advanced Python Programs
 
 ### ☕ Java Programs Repository
 > Core Java • OOP • Collections • Mini Projects
@@ -93,6 +94,7 @@
 🏆 Data Visualization: Storytelling — LinkedIn Learning
 
 🏆 Career Essentials in System Administration — Microsoft × LinkedIn Learning
+
 ---
 
 # 📈 Currently Learning
@@ -117,12 +119,12 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/lucky-chaurasiya-97946336b" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-2ECC71?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:luckychaurasiyaji@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -131,8 +133,8 @@
 
 <div align="center">
 
-### ⭐ "Learning one line of code every day is still progress."
+### ⭐ *"Code. Learn. Build. Repeat."* 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,25:2ECC71,50:16A085,75:3498DB,100:6C5CE7&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ECC71,25:58D68D,50:A9DFBF,75:D5F5E3,100:FFFFFF&height=120&section=footer"/>
 
 </div>
