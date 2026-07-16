@@ -81,7 +81,7 @@
 # 🚀 Featured Projects
 
 
-### 📊 Financial Crime Intelligence Dashboard
+### 📊 Sales Analytics Dashboard
 > Python • SQL • Power BI • Excel
 
 ### 🐍 Python Programs Repository
