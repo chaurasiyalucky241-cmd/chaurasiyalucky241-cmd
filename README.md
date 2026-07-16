@@ -37,6 +37,19 @@
 🎯 Goal: Become a **Data Scientist**
 
 ---
+---
+
+<div align="center">
+
+## 👨‍💻 Coding Journey
+
+<img src="images/anime-boy.png" width="320"/>
+
+*"Dream Big • Code Daily • Never Stop Learning"* 🚀
+
+</div>
+
+---
 
 # 💻 Tech Stack
 
@@ -100,19 +113,18 @@
 # 📈 Currently Learning
 
 ```text
-🐍 Python            ██████████ 100%
+🐍 Python            ████████░░ 80%
 
-🗄 SQL               █████████░ 90%
+🗄 SQL               ███████░░░ 75%
 
-📊 Power BI          ████████░░ 80%
+📊 Power BI          ██████░░░░ 60%
 
-📈 Statistics        ███████░░░ 70%
+📈 Statistics        █████░░░░░ 50%
 
-🤖 Machine Learning  █████░░░░░ 50%
+🤖 Machine Learning  ████░░░░░░ 40%
 
 🧠 Deep Learning     ██░░░░░░░░ 20%
 ```
-
 ---
 
 # 🌐 Connect With Me
