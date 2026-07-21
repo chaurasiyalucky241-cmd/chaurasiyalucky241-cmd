@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ECC71,25:58D68D,50:A9DFBF,75:D5F5E3,100:FFFFFF&height=230&section=header&text=Lucky%20Chaurasiya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20|%20Data%20Analytics%20|%20AI%20Enthusiast&descAlignY=58"/>
 
 
-### 🎓 BCA (AI & Data Analytics) Student • 🐍 Python Developer • 📊 Data Analytics Enthusiast
+
 
 <h3 align="center">
 💻 Building Real-World Projects • 📚 Learning Every Day • 🚀 Open to Internship Opportunities
