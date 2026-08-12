@@ -115,9 +115,7 @@
 
 📈 Statistics        █████░░░░░ 50%
 
-🤖 Machine Learning  ████░░░░░░ 40%
-
-🧠 Deep Learning     ██░░░░░░░░ 20%
+🤖 Machine Learning   ██░░░░░░░░ 20%
 ```
 ---
 
