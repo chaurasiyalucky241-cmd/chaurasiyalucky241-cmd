@@ -124,7 +124,7 @@ Cleaned & transformed 42k+ raw rows into ~8.8k analysis-ready rows using Python.
 ## 🐱 Code Companion
 
 <div align="center">
-<img src="cats.png" alt="Coding Cat" width="300"/>
+<img src="cat.png" alt="Coding Cat" width="300"/>
 
 ### 💚 Dream Big • Code Daily • Never Stop Learning 🚀
 </div>
